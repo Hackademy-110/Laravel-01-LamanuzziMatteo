@@ -1,0 +1,12 @@
+h1{
+    font-size: 5rem;
+    background-color: gray;
+    color: green;
+}
+.volevi{
+    background-image: url('./Media/Volevi.jpg');
+    background-repeat: repeat;
+    background-size: auto;
+    background-size: 50%;
+    height: 80vh;
+}
